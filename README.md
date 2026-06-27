@@ -8,7 +8,7 @@ I enjoy building real-world projects, exploring new technologies, and continuous
 
 ---
 
-## 💻 Tech Stack & Tools
+## Tech Stack & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
