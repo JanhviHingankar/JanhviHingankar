@@ -9,10 +9,8 @@ I enjoy building real-world projects, exploring new technologies, and continuous
 
 ## Tech Stack & Tools
 
-## Tech Stack
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,postgres,mysql,git,github,vscode,fastapi,linux&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,postgres,mysql,git,github,vscode,fastapi,linux&theme=dark&perline=12" />
 </p>
 
 ---
