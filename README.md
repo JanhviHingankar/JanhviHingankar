@@ -50,6 +50,3 @@ I enjoy building real-world projects, exploring new technologies, and continuous
 
 ---
 
-<p align="center">
-  <i>Learning, building, and exploring.</i>
-</p>
